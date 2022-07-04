@@ -1,8 +1,8 @@
 # Flex-Projeto-Dio
-Projeto para auxiliar o conhecimento com FlexBox CSS3, e sites responsivos.
+Projeto/Exercicio para auxiliar o conhecimento com FlexBox CSS3, e sites responsivos.
 
 ###
-<h3 align="left">🧑‍💻 Tecnologias utilizadas</h3>
+<h3 align="left">💻 Tecnologias utilizadas</h3>
 
 ###
 <div align="left">
